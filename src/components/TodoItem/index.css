@@ -1,0 +1,23 @@
+.todo-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.del-btn {
+  height: 28px;
+  width: 72px;
+  background-color: transparent;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.title {
+  color: #000000;
+}
